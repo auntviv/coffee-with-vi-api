@@ -1,0 +1,9 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.pylintArgs": [
+        "--load-plugins=pylint_django",
+        "--django-settings-module=<coffee-with-apvi>.settings",
+    ],
+    "python.linting.enabled": true
+    
+}
