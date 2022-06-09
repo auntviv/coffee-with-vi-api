@@ -1,0 +1,11 @@
+[
+    {
+        "model": "auth.user",
+        "pk": 1,
+        "fields": {
+            "password": "aviva",
+            "username": "aviva",
+            "email": "aviva@coffee.com"
+        }
+    }
+]

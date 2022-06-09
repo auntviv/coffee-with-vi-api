@@ -1,0 +1,30 @@
+[
+    {
+        "model": "coffeeapi.tag",
+        "pk": 1,
+        "fields": {
+            "label": "Rosetta"
+        }
+    },
+    {
+        "model": "coffeeapi.tag",
+        "pk": 2,
+        "fields": {
+            "label": "Swan"
+        }
+    },
+    {
+        "model": "coffeeapi.tag",
+        "pk": 3,
+        "fields": {
+            "label": "Heart"
+        }
+    },
+    {
+        "model": "coffeeapi.tag",
+        "pk": 4,
+        "fields": {
+            "label": "Tulip"
+        }
+    }
+]
